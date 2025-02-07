@@ -1,0 +1,2 @@
+git submodule update --init --recursive
+./bin/passenger-install-apache2-module
